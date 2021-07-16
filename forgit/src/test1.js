@@ -73,6 +73,7 @@ function translateDate(dateStr){
         b.push(set[i].charCodeAt()-50);
             console.log(b)
         //anything
+        //hey hey la la ley
     }
 
 
